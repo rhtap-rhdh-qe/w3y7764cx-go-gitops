@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: w3y7764cx-go-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/w3y7764cx-go
